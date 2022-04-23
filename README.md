@@ -14,6 +14,9 @@ kilometrów (zwiększa przebieg).
 auto z fabryki.
 5. Program powinien udostępniać interfejs pozwalający na wywołania poszczególnych
 metod.
+
+
+
 Etap 2:
 Dodajemy klasy Motocykl i Rower (z opcjonalnym koszykiem). Klasa Samochód i Motocykl mają
 dodatkowo pole ‘ilość_paliwa’, które jest zmniejszane przez metodę jedź. Wprowadzamy klasy
@@ -27,5 +30,8 @@ odkupić auto od właściciela, lub mu je sprzedać. Cena skupu jest funkcją za
 przebiegu, a cena sprzedaży jest ceną zakupu z marżą. Przy zakupie przez komis przebieg
 niektórych marek jest dzielony przez 2.
 Dodajemy klasę Lakiernik, która przyjmuje Pojazd do lakierowania i zmienia mu kolor
+
+
+
 Etap 3:
 Rozszerzenie o szblony i rzucanie wyjątków
