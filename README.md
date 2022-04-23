@@ -1,6 +1,5 @@
-# C-project---Fabryka-Samochodow
+# Cpp-project-Fabryka-Samochodow
 
-Fabryka samochodów
 Etap 1:
 Program oferujący następujące funkcjonalności:
 1. Klasa reprezentująca Fabrykę posiada unikalną nazwę określającą markę i produkuje
